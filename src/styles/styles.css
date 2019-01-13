@@ -1,4 +1,12 @@
 body {
     text-align: center;
     padding: 5%;
+    padding-top:2%;
+
+    /* Adding background image */
+    background-image: url('../assets/recipe1.jpg');
+    background-repeat: none;
+    background-size: cover;
+    height: 100%;
+    opacity: 1;
 }
